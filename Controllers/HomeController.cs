@@ -9,6 +9,7 @@ namespace NetWebApi.Controllers
 {
     public class HomeController : ApiController
     {
+        //Api Denemeleri
         public static List<string> sampleProducts = new List<string>()
         {
             "Chai",
